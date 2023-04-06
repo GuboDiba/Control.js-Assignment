@@ -2,15 +2,15 @@
 //Write a function that accepts an array of strings and console.
 //logs each element using a for loop
 
-// let x=["Nairobi","Nakuru","Mombasa","Kisumu","Eldoret","Nyeri"];
-// array(x)
-// function array(x){
-//   for( i=0;i<x.length;i++){
+let x=["Nairobi","Nakuru","Mombasa","Kisumu","Eldoret","Nyeri"];
+array(x)
+function array(x){
+  for( i=0;i<x.length;i++){
 
-//   console.log(x[i]);
+  console.log(x[i]);
 
-//   }
-// }
+  }
+}
 
 
 //No 2
